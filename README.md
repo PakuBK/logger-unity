@@ -9,7 +9,7 @@ Add the custom scripting symbol "ENABLE_LOGS" in **Edit > Project Settings > Pla
 ```
 using Paku.Logger;
 
-QLogger.("Debug Messsage", "From Me")
+QLogger.Log("Debug Messsage", "From Me");
 
 // Output
 [From Me] Debug Message
