@@ -1,8 +1,8 @@
 {
-  "name": "com.paku.logger",
+  "name": "com.paku.qlogger",
   "version": "1.0.0",
-  "displayName": "Logger",
-  "description": "Simple Logger with Conditional Logs.",
+  "displayName": "Q-Logger",
+  "description": "Simple (Quick-)Logger with Conditional Logs.",
   "unity": "2020.1",
   "documentationUrl": "https://github.com/PakuBK/logger-unity",
   "licensesUrl": "https://opensource.org/licenses/MIT",
