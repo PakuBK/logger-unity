@@ -7,15 +7,7 @@
   "documentationUrl": "https://github.com/PakuBK/logger-unity",
   "licensesUrl": "https://opensource.org/licenses/MIT",
   "keywords": [
-    "audio",
-    "tracks",
-    "audio manager",
-    "audio controller",
-    "sound manager",
-    "sounds",
-    "sound track",
-    "sfx manager",
-    "sfx controller"
+    "logger"
   ],
   "author": {
     "name": "Paku",
