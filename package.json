@@ -1,0 +1,26 @@
+{
+  "name": "com.paku.logger",
+  "version": "1.0.0",
+  "displayName": "Logger",
+  "description": "Simple Logger with Conditional Logs.",
+  "unity": "2020.1",
+  "documentationUrl": "https://github.com/PakuBK/logger-unity",
+  "licensesUrl": "https://opensource.org/licenses/MIT",
+  "keywords": [
+    "audio",
+    "tracks",
+    "audio manager",
+    "audio controller",
+    "sound manager",
+    "sounds",
+    "sound track",
+    "sfx manager",
+    "sfx controller"
+  ],
+  "author": {
+    "name": "Paku",
+    "email": "pakudevelops@gmail.com",
+    "url": "https://github.com/PakuBK"
+  },
+  "type": "tool"
+}
