@@ -1,8 +1,8 @@
 using System.Diagnostics;
 
 namespace Paku.Logger
-{ 
-    public static class Logger
+{
+    public static class QLogger
     {
         [Conditional("ENABLE_LOGS")]
         public static void Log(string _msg, string origin)
