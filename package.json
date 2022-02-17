@@ -1,14 +1,18 @@
 {
-  "name": "com.paku.qlogger",
+  "name": "com.paku.datacontroller",
   "version": "1.0.0",
-  "displayName": "Q-Logger",
-  "description": "Simple (Quick-)Logger with Conditional Logs.",
+  "displayName": "Data Controller",
+  "description": "Manages Scriptable Object and Volume Table Data with ease.",
   "unity": "2020.1",
-  "documentationUrl": "https://github.com/PakuBK/logger-unity",
+  "documentationUrl": "https://github.com/PakuBK/data-controller-unity",
   "licensesUrl": "https://opensource.org/licenses/MIT",
   "keywords": [
-    "logger"
+    "data managment",
+    "data"
   ],
+  "dependencies": {
+    "com.paku.qlogger": "https://github.com/PakuBK/logger-unity.git"
+  },
   "author": {
     "name": "Paku",
     "email": "pakudevelops@gmail.com",
